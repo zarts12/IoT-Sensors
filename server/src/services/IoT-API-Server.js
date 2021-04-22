@@ -25,7 +25,7 @@ module.exports = {
         keepalive: 300,
         protocol: 'mqtts',
         port: 8883,
-        host: 'a2lqo153m4zydi-ats.iot.eu-central-1.amazonaws.com',
+        host: 'aghpxeuz6kpvb-ats.iot.us-east-2.amazonaws.com',
         debug: true
       })
 
